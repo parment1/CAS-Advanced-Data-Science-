@@ -6,6 +6,7 @@ We use Two models are conducted in this study:
 - The Granger Causality test to examine the relation between individual explanatory variables and the NASDAQ composite index (bidirectional)
 
 workbook name: Module_1_&_2_30092021.ipynb
+Presentation name: Cas Applied Data Science – October 7th 2021 - v2.pptx
 
 Steps 
 1. Download the data from FRED St Louis and Nasdaq
