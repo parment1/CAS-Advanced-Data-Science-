@@ -17,5 +17,6 @@ From there we use statsmodels:
 4. Run Augmented Dick Fuller test to check for stationarity as it's a time serie
 5. Take the first difference if a variable shwos non-stationarity
 6. Repeat 4 and 5 until the time series exhibit stationarity
-7. Run OLS model (use 
+7. Run OLS model / analyses the results 
 8. Run Multidirectional Granger Causality and check if there is a bidirectional causality between the dependent variable and independent variables
+9. Next steps: Put a lag? How many lag for the Granger causality? More Macro variables? PCA?
