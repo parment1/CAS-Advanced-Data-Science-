@@ -10,7 +10,7 @@ Presentation name: Cas Applied Data Science – October 7th 2021 - v2.pptx
 
 Steps 
 1. Download the data from FRED St Louis and Nasdaq
-2. Clean & merge the data
+2. Clean & merge the data (I excluded the data from the COVID crisis and just took up to end of 2019)
 3. Descriptive statistic to understand the dataset
 
 From there we use statsmodels:
