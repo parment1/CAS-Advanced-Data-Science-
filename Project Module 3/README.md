@@ -1,4 +1,3 @@
-
 Abstract:
 
 Pairs trading is a strategy in which a trader buys one asset while shorting another. The main premise of the trade is that when the two pairs diverge, they will likely converge again resulting in profit for the trader.
@@ -13,8 +12,6 @@ Find stocks to go long and short based on clusters and select the best methodolo
 -Hierarchical clustering
 
 Back-test the performance against based on Sharpe Ratio
-![image](https://user-images.githubusercontent.com/53702289/150674841-e9c3bc43-34ea-4e24-9108-8bea2618b024.png)
-
 
 Methodology:
 
@@ -24,6 +21,4 @@ Methodology:
 - METHODOLOGY 1: K-Means clustering visualization
 - METHODOLOGY 2: Hierarchical clustering - Dendrogram
 - We take the spread between the long and the short legs and look at the performance based on the sharpe ratio
-
-
 
